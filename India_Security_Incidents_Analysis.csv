@@ -1,0 +1,21 @@
+Year,Day,Amount_Lost_INR,Incident_Type,City,Category
+2019,24,497758,Malware,Pune,Educational
+2019,22,497037,Hacking,Ahmedabad,Government
+2019,23,490536,Malware,Ahmedabad,Government
+2019,25,494948,Data Breach,Pune,Personal
+2019,1,494166,Ransomware,Jaipur,Personal
+2020,5,495509,Identity Theft,Bangalore,Personal
+2020,18,499172,Ransomware,Bangalore,E-commerce
+2020,18,494158,Hacking,Hyderabad,Social Media
+2021,2,492872,Cyber Bullying,Pune,Government
+2022,18,499500,Cyber Bullying,Bangalore,Government
+2022,14,499090,Identity Theft,Mumbai,E-commerce
+2022,22,492128,Ransomware,Chennai,Financial
+2022,17,496370,Cyber Bullying,Delhi,Corporate
+2023,20,490626,Hacking,Mumbai,Educational
+2023,20,499946,Cyber Bullying,Ahmedabad,Educational
+2023,17,493289,Ransomware,Delhi,Personal
+2023,8,493049,Data Breach,Kolkata,Government
+2023,28,489910,Identity Theft,Ahmedabad,Financial
+2024,7,498415,Hacking,Chennai,Social Media
+2024,15,498660,Online Fraud,Chennai,Social Media
